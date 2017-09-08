@@ -7,7 +7,7 @@ This repository keeps track of the papers discussed at the "vismeet" reading gro
 
 [**Planning doc**](https://docs.google.com/document/d/14s-4LOtrOXffRLlMsN94cga8Hzel5gqIpr-Rd_Fqka4/edit?usp=sharing): shared Google doc for planning and coordinating the agenda for the weekly meet.
 
-  PLEASE remember to check the doc for the future agenda and updates.
+  `PLEASE remember to check the doc for the future agenda and updates.`
 
 ## Location
 
