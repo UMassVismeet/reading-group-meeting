@@ -13,4 +13,4 @@ Room CS 150 is reserved for our weekly meetings every Friday from 10:00 to 12:00
 
 | **Date** | **Description** | **Readings** | **Presenter** | **Slides** |
 | :---:    | :---:           | :---:        | :---:         | :---:      |
-
+| Sep 31   |  Improved Bilinear Pooling with CNNs| [arXiv](https://arxiv.org/abs/1707.06772) |Tsung-Yu | [...] |
